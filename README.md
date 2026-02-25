@@ -182,9 +182,7 @@ uvicorn main:app --reload --port 8000
 
 ---
 
-## 🙈 .gitignore
 
-Make sure your repo includes this `.gitignore`:
 
 ```
 venv/
